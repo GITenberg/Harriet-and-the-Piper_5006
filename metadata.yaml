@@ -1,0 +1,28 @@
+_repo: Harriet-and-the-Piper_5006
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Norris, Kathleen Thompson
+    birthdate: 1880
+    deathdate: 1966
+    gutenberg_agent_id: '1247'
+    url: http://www.gutenberg.org/2009/agents/1247
+    wikipedia: http://en.wikipedia.org/wiki/Kathleen_Norris
+description: ''
+gutenberg_bookshelf: Bestsellers, American, 1895-1923
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5006'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Married people -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'New York (N.Y.) -- Social life and customs -- 20th century -- Fiction'
+- GITenberg
+title: Harriet and the Piper
+url: http://www.gutenberg.org/ebooks/5006
